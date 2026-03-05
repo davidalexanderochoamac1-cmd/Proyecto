@@ -76,7 +76,7 @@ function updateHorizontalScroll() {
 }
 
 
-// 6. STICKY SECTION animación por progreso
+// 6. STICKY SECTION animación por progreso.
 const stickySection = document.getElementById('sticky-section');
 const stickyLines = [
   document.getElementById('sline1'),
